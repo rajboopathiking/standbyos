@@ -22,3 +22,4 @@ The generated debug build has the same applicationId `com.standbyos.android` as 
 
 Not associated with Apple Inc. Design is inspired by StandBy, not a byte-for-byte copy of proprietary Apple assets.
 # standbyos
+# standbyos
