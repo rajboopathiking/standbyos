@@ -21,5 +21,3 @@ With Android Studio, open the project and select **Build > Build APK(s)**. Or pu
 The generated debug build has the same applicationId `com.standbyos.android` as the uploaded example APK. Because the new build uses a different signing key, uninstall the previously installed APK before installing this build (which may reset existing settings).
 
 Not associated with Apple Inc. Design is inspired by StandBy, not a byte-for-byte copy of proprietary Apple assets.
-# standbyos
-# standbyos
